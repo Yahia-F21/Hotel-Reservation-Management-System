@@ -275,6 +275,3 @@ Developed as a Hotel Reservation Management System for database and Windows Form
 
 For issues, questions, or suggestions, please open an issue in the repository or contact the development team.
 
----
-
-**Last Updated**: 2024
